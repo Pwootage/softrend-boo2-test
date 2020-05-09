@@ -1,0 +1,6 @@
+[submodule "boo2"]
+	path = boo2
+	url = ssh://gitlab@git.axiodl.com:6431/Pwootage/boo2.git
+[submodule "llvm-project"]
+	path = llvm-project
+	url = git@github.com:Pwootage/llvm-project.git
